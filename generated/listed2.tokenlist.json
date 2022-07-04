@@ -1,14 +1,14 @@
 {
     "ms": 52,
-    "query": "{\n  \"name\": \"SurfLodge\",\n  \"timestamp\": \"2021-10-06T18:18:18.181Z\",\n  \"version\": {\n    \"major\": 1,\n    \"minor\": 0,\n    \"patch\": 2\n  },\n  \"tags\": {},\n  \"logoURI\": \"https://raw.githubusercontent.com/SurfLodge/assets/main/assets/0xe1F2F1b7088A1Ee05d444B142De457303c7f342e.png\",\n  \"keywords\": [\n    \"beethoven\",\n    \"default\",\n    \"fantom\"\n  ],\n  \"tokens\": *[_type == \"fantomToken\"]{\n      name,\n      address,\n      symbol,\n      decimals,\n      \"chainId\": 106,\n      logoURI\n   }\n}",
+    "query": "{\n  \"name\": \"WaveLength\",\n  \"timestamp\": \"2021-10-06T18:18:18.181Z\",\n  \"version\": {\n    \"major\": 1,\n    \"minor\": 0,\n    \"patch\": 2\n  },\n  \"tags\": {},\n  \"logoURI\": \"https://raw.githubusercontent.com/WaveLength/assets/main/assets/0xe1F2F1b7088A1Ee05d444B142De457303c7f342e.png\",\n  \"keywords\": [\n    \"beethoven\",\n    \"default\",\n    \"fantom\"\n  ],\n  \"tokens\": *[_type == \"fantomToken\"]{\n      name,\n      address,\n      symbol,\n      decimals,\n      \"chainId\": 106,\n      logoURI\n   }\n}",
     "result": {
         "keywords": [
             "surf",
             "default",
             "velas"
         ],
-        "logoURI": "https://raw.githubusercontent.com/SurfLodge/assets/main/assets/0xe1F2F1b7088A1Ee05d444B142De457303c7f342e.png",
-        "name": "SurfLodge",
+        "logoURI": "https://raw.githubusercontent.com/WaveLength/assets/main/assets/0xe1F2F1b7088A1Ee05d444B142De457303c7f342e.png",
+        "name": "WaveLength",
         "tags": {},
         "timestamp": "2021-10-06T18:18:18.181Z",
         "tokens": [
