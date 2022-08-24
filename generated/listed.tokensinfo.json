@@ -1,0 +1,82 @@
+{
+  "name": " WaveLength",
+  "timestamp": "2021-10-06T18:18:18.181Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 2
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/wavelength-velas/assets/main/assets/wavelength_logo.png",
+  "keywords": [
+    "beethoven",
+    "default",
+    "fantom"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped Velas",
+      "address": "0xc579D1f3CF86749E05CD06f7ADe17856c2CE3126",
+      "symbol": "WVLX",
+      "decimals": 18,
+      "chainId": 106,
+      "logoURI": "https://assets.coingecko.com/coins/images/9651/large/velas.png"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+      "symbol": "wBTC",
+      "decimals": 8,
+      "chainId": 106,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+    },
+    {
+      "name": "Wrapped Ethereum",
+      "address": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
+      "symbol": "wETH",
+      "decimals": 18,
+      "chainId": 106,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+    },
+    {
+      "name": "DAI",
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 106,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/multi-collateral-dai-dai-logo-2.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0xe2C120f188eBd5389F71Cf4d9C16d05b62A58993",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 106,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+    },
+    {
+      "name": "Frapped USDT",
+      "address": "0x01445C31581c354b7338AC35693AB2001B50b9aE",
+      "symbol": "fUSDT",
+      "decimals": 6,
+      "chainId": 106,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
+    },
+    {
+      "name": "WaveLength Token",
+      "address": "0x5a60cE3D928c38Ee36B5104e98a42cf7B277f9C4",
+      "symbol": "WAVE",
+      "decimals": 18,
+      "chainId": 106,
+      "logoURI": "https://raw.githubusercontent.com/wavelength-velas/assets/main/assets/wavelength_logo.png"
+    },
+    {
+      "name": "Multichain BUSD",
+      "address": "0xc111c29A988AE0C0087D97b33C6E6766808A3BD3",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 106,
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png"
+    }
+   ]
+}
