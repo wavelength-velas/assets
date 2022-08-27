@@ -15,7 +15,7 @@
             {
                 "address": "0xc579D1f3CF86749E05CD06f7ADe17856c2CE3126",
                 "chainId": 106,
-                "decimals": 6,
+                "decimals": 18,
                 "logoURI": "https://assets.coingecko.com/coins/images/9651/large/velas.png",
                 "name": "Wrapped Velas",
                 "symbol": "WVLX"
