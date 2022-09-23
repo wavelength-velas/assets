@@ -8,6 +8,14 @@
         "tokens": [
             {
                 "chainId": 106,
+                "address": "0x895b7291D540005e8ED2aEF696A89143CFaC517D",
+                "decimals": 18,
+                "name": "Wavelength Token",
+                "symbol": "WAVE",
+                "logoURI": "./velas.png"
+            },
+            {
+                "chainId": 106,
                 "address": "0x01445C31581c354b7338AC35693AB2001B50b9aE",
                 "decimals": 6,
                 "name": "Tether USD",
