@@ -13,6 +13,14 @@
         "timestamp": "2021-10-06T18:18:18.181Z",
         "tokens": [
             {
+            "address": "0x895b7291D540005e8ED2aEF696A89143CFaC517D",
+            "chainId": 106,
+            "decimals": 18,
+            "logoURI": "./wave.png"
+            "name": "Wavelength Token",
+            "symbol": "WAVE",
+            },
+            {
                 "address": "0xc579D1f3CF86749E05CD06f7ADe17856c2CE3126",
                 "chainId": 106,
                 "decimals": 18,
