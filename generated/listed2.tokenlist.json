@@ -75,7 +75,7 @@
                 "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
                 "name": "Ethereum",
                 "symbol": "ETH"
-            },
+            }
         ],
         "version": {
             "major": 1,
