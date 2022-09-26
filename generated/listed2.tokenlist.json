@@ -61,20 +61,36 @@
                 "symbol": "BUSD"
             },
             {
-                "address": "0xcD7509b76281223f5B7d3aD5d47F8D7Aa5C2B9bf",
-                "chainId": 106,
-                "decimals": 18,
-                "logoURI": "https://assets.coingecko.com/coins/images/24523/large/usdv.PNG",
-                "name": " USD Velero Stablecoin",
-                "symbol": "USDV"
-            },
-            {
                 "address": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
                 "chainId": 106,
                 "decimals": 18,
                 "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
                 "name": "Ethereum",
                 "symbol": "ETH"
+            },
+            {
+                "address": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
+                "chainId": 106,
+                "decimals": 18,
+                "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png",
+                "name": "Polygon",
+                "symbol": "MATIC"
+            },
+                        {
+                "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
+                "chainId": 106,
+                "decimals": 18,
+                "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png",
+                "name": "Avalanche",
+                "symbol": "AVAX"
+            },
+            {
+                "address": "0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a",
+                "chainId": 106,
+                "decimals": 18,
+                "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
+                "name": "Binance",
+                "symbol": "BNB"
             }
         ],
         "version": {
