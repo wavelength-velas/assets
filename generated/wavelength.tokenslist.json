@@ -21,7 +21,7 @@
                 "symbol": "WVLX"
             },
             {
-                "address": "0xe2C120f188eBd5389F71Cf4d9C16d05b62A58993",
+                "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
                 "chainId": 106,
                 "decimals": 6,
                 "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
@@ -45,7 +45,7 @@
                 "symbol": "WBTC"
             },
             {
-                "address": "0x01445C31581c354b7338AC35693AB2001B50b9aE",
+                "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
                 "chainId": 106,
                 "decimals": 6,
                 "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
@@ -53,7 +53,7 @@
                 "symbol": "USDT"
             },
             {
-                "address": "0xc111c29A988AE0C0087D97b33C6E6766808A3BD3",
+                "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
                 "chainId": 106,
                 "decimals": 18,
                 "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png",
