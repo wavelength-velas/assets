@@ -21,7 +21,7 @@
                 "symbol": "WVLX"
             },
             {
-                "address": "0xe2C120f188eBd5389F71Cf4d9C16d05b62A58993",
+                "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
                 "chainId": 106,
                 "decimals": 6,
                 "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
@@ -29,7 +29,7 @@
                 "symbol": "USDC"
             },
             {
-                "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+                "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
                 "chainId": 106,
                 "decimals": 18,
                 "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
@@ -37,7 +37,7 @@
                 "symbol": "DAI"
             },
             {
-                "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+                "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
                 "chainId": 106,
                 "decimals": 8,
                 "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
@@ -45,7 +45,7 @@
                 "symbol": "WBTC"
             },
             {
-                "address": "0x01445C31581c354b7338AC35693AB2001B50b9aE",
+                "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
                 "chainId": 106,
                 "decimals": 6,
                 "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
@@ -53,7 +53,7 @@
                 "symbol": "USDT"
             },
             {
-                "address": "0xc111c29A988AE0C0087D97b33C6E6766808A3BD3",
+                "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
                 "chainId": 106,
                 "decimals": 18,
                 "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png",
@@ -61,7 +61,7 @@
                 "symbol": "BUSD"
             },
             {
-                "address": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
+                "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
                 "chainId": 106,
                 "decimals": 18,
                 "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
