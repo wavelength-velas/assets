@@ -16,7 +16,7 @@
             },
             {
                 "chainId": 106,
-                "address": "0x01445C31581c354b7338AC35693AB2001B50b9aE",
+                "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
                 "decimals": 6,
                 "name": "Tether USD",
                 "symbol": "USDT",
@@ -24,7 +24,7 @@
             },
             {
                 "chainId": 106,
-                "address": "0xe2C120f188eBd5389F71Cf4d9C16d05b62A58993",
+                "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
                 "decimals": 6,
                 "name": "USD Coin",
                 "symbol": "USDC",
@@ -32,7 +32,7 @@
             },
             {
                 "chainId": 106,
-                "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+                "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
                 "decimals": 18,
                 "name": "Dai Stablecoin",
                 "symbol": "DAI",
@@ -40,7 +40,7 @@
             },
             {
                 "chainId": 106,
-                "address": "0x525Bd1f949ffA2a0c5820F3B6FE61Bb897466fF7",
+                "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
                 "decimals": 18,
                 "name": "Wrapped AVAX",
                 "symbol": "WAVAX",
@@ -48,27 +48,11 @@
             },
             {
                 "chainId": 106,
-                "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+                "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
                 "decimals": 8,
                 "name": "Wrapped BTC",
                 "symbol": "WBTC.e",
                 "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
-            },
-            {
-                "chainId": 106,
-                "address": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
-                "decimals": 18,
-                "name": "Wrapped Ether",
-                "symbol": "WETH.e",
-                "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
-            },
-            {
-                "chainId": 106,
-                "address": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
-                "decimals": 18,
-                "name": "Wrapped Ether",
-                "symbol": "WETH.e",
-                "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
             },
             {
                 "chainId": 106,
@@ -80,19 +64,11 @@
             },
             {
                 "chainId": 106,
-                "address": "0xc111c29A988AE0C0087D97b33C6E6766808A3BD3",
+                "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
                 "decimals": 18,
                 "name": "Binance USD",
                 "symbol": "BUSD",
                 "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png"
-            },
-            {
-                "chainId": 106,
-                "address": "0xcD7509b76281223f5B7d3aD5d47F8D7Aa5C2B9bf",
-                "decimals": 18,
-                "name": "USD Velero Stablecoin",
-                "symbol": "USDV",
-                "logoURI": "https://assets.coingecko.com/coins/images/24523/large/usdv.PNG"
             }
         ]
     }
