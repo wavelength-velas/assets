@@ -32,7 +32,7 @@
     },
     {
       "name": "Wrapped Ethereum",
-      "address": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
+      "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
       "symbol": "wETH",
       "decimals": 18,
       "chainId": 106,
@@ -40,7 +40,7 @@
     },
     {
       "name": "DAI",
-      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 106,
@@ -48,31 +48,23 @@
     },
     {
       "name": "USDC",
-      "address": "0xe2C120f188eBd5389F71Cf4d9C16d05b62A58993",
+      "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 106,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
     },
     {
-      "name": "Frapped USDT",
-      "address": "0x01445C31581c354b7338AC35693AB2001B50b9aE",
-      "symbol": "fUSDT",
+      "name": "Tether USD",
+      "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+      "symbol": "USDT",
       "decimals": 6,
       "chainId": 106,
       "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
     },
     {
-      "name": "WaveLength Token",
-      "address": "0x5a60cE3D928c38Ee36B5104e98a42cf7B277f9C4",
-      "symbol": "WAVE",
-      "decimals": 18,
-      "chainId": 106,
-      "logoURI": "https://raw.githubusercontent.com/wavelength-velas/assets/main/assets/wavelength_logo.png"
-    },
-    {
       "name": "Multichain BUSD",
-      "address": "0xc111c29A988AE0C0087D97b33C6E6766808A3BD3",
+      "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
       "symbol": "BUSD",
       "decimals": 18,
       "chainId": 106,
