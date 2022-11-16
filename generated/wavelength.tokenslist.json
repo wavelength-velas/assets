@@ -25,16 +25,16 @@
                 "chainId": 106,
                 "decimals": 6,
                 "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
-                "name": "USD Coin",
-                "symbol": "USDC"
+                "name": "USD Coin Anyswap",
+                "symbol": "anyUSDC"
             },
             {
                 "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
                 "chainId": 106,
                 "decimals": 18,
                 "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
-                "name": "Dai Stablecoin",
-                "symbol": "DAI"
+                "name": "Dai Stablecoin Anyswap",
+                "symbol": "anyDAI"
             },
             {
                 "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
@@ -49,16 +49,16 @@
                 "chainId": 106,
                 "decimals": 6,
                 "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
-                "name": "Tether USD",
-                "symbol": "USDT"
+                "name": "Tether USD Anyswap",
+                "symbol": "anyUSDT"
             },
             {
                 "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
                 "chainId": 106,
                 "decimals": 18,
                 "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png",
-                "name": "Multichain BUSD",
-                "symbol": "BUSD"
+                "name": "Multichain BUSD Anyswap",
+                "symbol": "anyBUSD"
             },
             {
                 "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
@@ -91,6 +91,38 @@
                 "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
                 "name": "Binance",
                 "symbol": "BNB"
+            },
+                        {
+                "address": "0x01445c31581c354b7338ac35693ab2001b50b9ae",
+                "chainId": 106,
+                "decimals": 6,
+                "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+                "name": "Tether USD Lab",
+                "symbol": "labUSDT"
+            },
+            {
+                "address": "0xc111c29a988ae0c0087d97b33c6e6766808a3bd3",
+                "chainId": 106,
+                "decimals": 18,
+                "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png",
+                "name": "Multichain BUSD Lab",
+                "symbol": "labBUSD"
+            },
+            {
+                "address": "0xe2c120f188ebd5389f71cf4d9c16d05b62a58993",
+                "chainId": 106,
+                "decimals": 6,
+                "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+                "name": "USD Coin Lab",
+                "symbol": "labUSDC"
+            },
+            {
+                "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+                "chainId": 106,
+                "decimals": 18,
+                "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
+                "name": "Dai Stablecoin Lab",
+                "symbol": "labDAI"
             }
         ],
         "version": {
